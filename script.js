@@ -123,7 +123,7 @@ function showTime() {
         position: fixed;
         top: 20px;
         right: 20px;
-        background: rgba(0, 0, 0, 0.8);
+        background: rgba(144, 123, 227, 0.8);
         color: white;
         padding: 10px;
         border-radius: 5px;
